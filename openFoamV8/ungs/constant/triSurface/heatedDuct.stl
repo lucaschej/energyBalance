@@ -1,0 +1,206 @@
+solid metalInlet
+ facet normal -0.000000e+00  0.000000e+00 -1.000000e+00
+   outer loop
+     vertex -2.500000e-04  2.500000e-04  0.000000e+00
+     vertex -2.500000e-03 -2.500000e-03  0.000000e+00
+     vertex -2.500000e-03  2.500000e-03  0.000000e+00
+   endloop
+ endfacet
+ facet normal  0.000000e+00 -0.000000e+00 -1.000000e+00
+   outer loop
+     vertex -2.500000e-04  2.500000e-04  0.000000e+00
+     vertex -2.500000e-04 -2.500000e-04  0.000000e+00
+     vertex -2.500000e-03 -2.500000e-03  0.000000e+00
+   endloop
+ endfacet
+ facet normal  0.000000e+00 -0.000000e+00 -1.000000e+00
+   outer loop
+     vertex  2.500000e-04 -2.500000e-04  0.000000e+00
+     vertex  2.500000e-03 -2.500000e-03  0.000000e+00
+     vertex -2.500000e-03 -2.500000e-03  0.000000e+00
+   endloop
+ endfacet
+ facet normal -0.000000e+00  0.000000e+00 -1.000000e+00
+   outer loop
+     vertex  2.500000e-04 -2.500000e-04  0.000000e+00
+     vertex -2.500000e-03 -2.500000e-03  0.000000e+00
+     vertex -2.500000e-04 -2.500000e-04  0.000000e+00
+   endloop
+ endfacet
+ facet normal  0.000000e+00  0.000000e+00 -1.000000e+00
+   outer loop
+     vertex  2.500000e-03  2.500000e-03  0.000000e+00
+     vertex  2.500000e-04 -2.500000e-04  0.000000e+00
+     vertex  2.500000e-04  2.500000e-04  0.000000e+00
+   endloop
+ endfacet
+ facet normal  0.000000e+00  0.000000e+00 -1.000000e+00
+   outer loop
+     vertex  2.500000e-03  2.500000e-03  0.000000e+00
+     vertex  2.500000e-04  2.500000e-04  0.000000e+00
+     vertex -2.500000e-04  2.500000e-04  0.000000e+00
+   endloop
+ endfacet
+ facet normal -0.000000e+00  0.000000e+00 -1.000000e+00
+   outer loop
+     vertex  2.500000e-03  2.500000e-03  0.000000e+00
+     vertex -2.500000e-04  2.500000e-04  0.000000e+00
+     vertex -2.500000e-03  2.500000e-03  0.000000e+00
+   endloop
+ endfacet
+ facet normal  0.000000e+00 -0.000000e+00 -1.000000e+00
+   outer loop
+     vertex  2.500000e-03  2.500000e-03  0.000000e+00
+     vertex  2.500000e-03 -2.500000e-03  0.000000e+00
+     vertex  2.500000e-04 -2.500000e-04  0.000000e+00
+   endloop
+ endfacet
+endsolid metalInlet
+solid fluidInlet
+ facet normal -0.000000e+00  0.000000e+00 -1.000000e+00
+   outer loop
+     vertex  2.500000e-04  2.500000e-04  0.000000e+00
+     vertex -2.500000e-04 -2.500000e-04  0.000000e+00
+     vertex -2.500000e-04  2.500000e-04  0.000000e+00
+   endloop
+ endfacet
+ facet normal  0.000000e+00 -0.000000e+00 -1.000000e+00
+   outer loop
+     vertex  2.500000e-04  2.500000e-04  0.000000e+00
+     vertex  2.500000e-04 -2.500000e-04  0.000000e+00
+     vertex -2.500000e-04 -2.500000e-04  0.000000e+00
+   endloop
+ endfacet
+endsolid fluidInlet
+solid metalOutlet
+ facet normal  0.000000e+00  0.000000e+00  1.000000e+00
+   outer loop
+     vertex -2.500000e-04  2.500000e-04  5.000000e-02
+     vertex -2.500000e-03  2.500000e-03  5.000000e-02
+     vertex -2.500000e-03 -2.500000e-03  5.000000e-02
+   endloop
+ endfacet
+ facet normal  0.000000e+00  0.000000e+00  1.000000e+00
+   outer loop
+     vertex -2.500000e-04  2.500000e-04  5.000000e-02
+     vertex -2.500000e-03 -2.500000e-03  5.000000e-02
+     vertex -2.500000e-04 -2.500000e-04  5.000000e-02
+   endloop
+ endfacet
+ facet normal  0.000000e+00  0.000000e+00  1.000000e+00
+   outer loop
+     vertex  2.500000e-04 -2.500000e-04  5.000000e-02
+     vertex -2.500000e-03 -2.500000e-03  5.000000e-02
+     vertex  2.500000e-03 -2.500000e-03  5.000000e-02
+   endloop
+ endfacet
+ facet normal  0.000000e+00  0.000000e+00  1.000000e+00
+   outer loop
+     vertex  2.500000e-04 -2.500000e-04  5.000000e-02
+     vertex -2.500000e-04 -2.500000e-04  5.000000e-02
+     vertex -2.500000e-03 -2.500000e-03  5.000000e-02
+   endloop
+ endfacet
+ facet normal  0.000000e+00  0.000000e+00  1.000000e+00
+   outer loop
+     vertex  2.500000e-03  2.500000e-03  5.000000e-02
+     vertex  2.500000e-04  2.500000e-04  5.000000e-02
+     vertex  2.500000e-04 -2.500000e-04  5.000000e-02
+   endloop
+ endfacet
+ facet normal  0.000000e+00  0.000000e+00  1.000000e+00
+   outer loop
+     vertex  2.500000e-03  2.500000e-03  5.000000e-02
+     vertex -2.500000e-04  2.500000e-04  5.000000e-02
+     vertex  2.500000e-04  2.500000e-04  5.000000e-02
+   endloop
+ endfacet
+ facet normal  0.000000e+00  0.000000e+00  1.000000e+00
+   outer loop
+     vertex  2.500000e-03  2.500000e-03  5.000000e-02
+     vertex -2.500000e-03  2.500000e-03  5.000000e-02
+     vertex -2.500000e-04  2.500000e-04  5.000000e-02
+   endloop
+ endfacet
+ facet normal  0.000000e+00  0.000000e+00  1.000000e+00
+   outer loop
+     vertex  2.500000e-03  2.500000e-03  5.000000e-02
+     vertex  2.500000e-04 -2.500000e-04  5.000000e-02
+     vertex  2.500000e-03 -2.500000e-03  5.000000e-02
+   endloop
+ endfacet
+endsolid metalOutlet
+solid fluidOutlet
+ facet normal  0.000000e+00  0.000000e+00  1.000000e+00
+   outer loop
+     vertex  2.500000e-04  2.500000e-04  5.000000e-02
+     vertex -2.500000e-04  2.500000e-04  5.000000e-02
+     vertex -2.500000e-04 -2.500000e-04  5.000000e-02
+   endloop
+ endfacet
+ facet normal  0.000000e+00  0.000000e+00  1.000000e+00
+   outer loop
+     vertex  2.500000e-04  2.500000e-04  5.000000e-02
+     vertex -2.500000e-04 -2.500000e-04  5.000000e-02
+     vertex  2.500000e-04 -2.500000e-04  5.000000e-02
+   endloop
+ endfacet
+endsolid fluidOutlet
+solid metalExternal
+ facet normal  1.000000e+00 -0.000000e+00  0.000000e+00
+   outer loop
+     vertex  2.500000e-03 -2.500000e-03  5.000000e-02
+     vertex  2.500000e-03  2.500000e-03  0.000000e+00
+     vertex  2.500000e-03  2.500000e-03  5.000000e-02
+   endloop
+ endfacet
+ facet normal  1.000000e+00  0.000000e+00  0.000000e+00
+   outer loop
+     vertex  2.500000e-03 -2.500000e-03  5.000000e-02
+     vertex  2.500000e-03 -2.500000e-03  0.000000e+00
+     vertex  2.500000e-03  2.500000e-03  0.000000e+00
+   endloop
+ endfacet
+ facet normal  0.000000e+00 -1.000000e+00 -0.000000e+00
+   outer loop
+     vertex  2.500000e-03 -2.500000e-03  5.000000e-02
+     vertex -2.500000e-03 -2.500000e-03  0.000000e+00
+     vertex  2.500000e-03 -2.500000e-03  0.000000e+00
+   endloop
+ endfacet
+ facet normal -0.000000e+00 -1.000000e+00  0.000000e+00
+   outer loop
+     vertex  2.500000e-03 -2.500000e-03  5.000000e-02
+     vertex -2.500000e-03 -2.500000e-03  5.000000e-02
+     vertex -2.500000e-03 -2.500000e-03  0.000000e+00
+   endloop
+ endfacet
+ facet normal  0.000000e+00  1.000000e+00  0.000000e+00
+   outer loop
+     vertex  2.500000e-03  2.500000e-03  5.000000e-02
+     vertex  2.500000e-03  2.500000e-03  0.000000e+00
+     vertex -2.500000e-03  2.500000e-03  0.000000e+00
+   endloop
+ endfacet
+ facet normal  0.000000e+00  1.000000e+00  0.000000e+00
+   outer loop
+     vertex  2.500000e-03  2.500000e-03  5.000000e-02
+     vertex -2.500000e-03  2.500000e-03  0.000000e+00
+     vertex -2.500000e-03  2.500000e-03  5.000000e-02
+   endloop
+ endfacet
+ facet normal -1.000000e+00  0.000000e+00  0.000000e+00
+   outer loop
+     vertex -2.500000e-03 -2.500000e-03  5.000000e-02
+     vertex -2.500000e-03  2.500000e-03  5.000000e-02
+     vertex -2.500000e-03  2.500000e-03  0.000000e+00
+   endloop
+ endfacet
+ facet normal -1.000000e+00  0.000000e+00  0.000000e+00
+   outer loop
+     vertex -2.500000e-03 -2.500000e-03  5.000000e-02
+     vertex -2.500000e-03  2.500000e-03  0.000000e+00
+     vertex -2.500000e-03 -2.500000e-03  0.000000e+00
+   endloop
+ endfacet
+endsolid metalExternal

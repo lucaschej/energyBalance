@@ -1,0 +1,86 @@
+solid metalToHeater
+ facet normal  0.000000e+00  1.000000e+00  0.000000e+00
+   outer loop
+     vertex  5.000000e-04 -5.000000e-04  6.000000e-03
+     vertex  5.000000e-04 -5.000000e-04  5.000000e-03
+     vertex -5.000000e-04 -5.000000e-04  5.000000e-03
+   endloop
+ endfacet
+ facet normal  0.000000e+00  1.000000e+00  0.000000e+00
+   outer loop
+     vertex  5.000000e-04 -5.000000e-04  6.000000e-03
+     vertex -5.000000e-04 -5.000000e-04  5.000000e-03
+     vertex -5.000000e-04 -5.000000e-04  6.000000e-03
+   endloop
+ endfacet
+ facet normal -0.000000e+00  0.000000e+00 -1.000000e+00
+   outer loop
+     vertex  5.000000e-04 -5.000000e-04  5.000000e-03
+     vertex -5.000000e-04 -7.500000e-04  5.000000e-03
+     vertex -5.000000e-04 -5.000000e-04  5.000000e-03
+   endloop
+ endfacet
+ facet normal  0.000000e+00 -0.000000e+00 -1.000000e+00
+   outer loop
+     vertex  5.000000e-04 -5.000000e-04  5.000000e-03
+     vertex  5.000000e-04 -7.500000e-04  5.000000e-03
+     vertex -5.000000e-04 -7.500000e-04  5.000000e-03
+   endloop
+ endfacet
+ facet normal -1.000000e+00  0.000000e+00  0.000000e+00
+   outer loop
+     vertex -5.000000e-04 -7.500000e-04  6.000000e-03
+     vertex -5.000000e-04 -5.000000e-04  6.000000e-03
+     vertex -5.000000e-04 -5.000000e-04  5.000000e-03
+   endloop
+ endfacet
+ facet normal -1.000000e+00  0.000000e+00  0.000000e+00
+   outer loop
+     vertex -5.000000e-04 -7.500000e-04  6.000000e-03
+     vertex -5.000000e-04 -5.000000e-04  5.000000e-03
+     vertex -5.000000e-04 -7.500000e-04  5.000000e-03
+   endloop
+ endfacet
+ facet normal  0.000000e+00 -1.000000e+00 -0.000000e+00
+   outer loop
+     vertex  5.000000e-04 -7.500000e-04  6.000000e-03
+     vertex -5.000000e-04 -7.500000e-04  5.000000e-03
+     vertex  5.000000e-04 -7.500000e-04  5.000000e-03
+   endloop
+ endfacet
+ facet normal -0.000000e+00 -1.000000e+00  0.000000e+00
+   outer loop
+     vertex  5.000000e-04 -7.500000e-04  6.000000e-03
+     vertex -5.000000e-04 -7.500000e-04  6.000000e-03
+     vertex -5.000000e-04 -7.500000e-04  5.000000e-03
+   endloop
+ endfacet
+ facet normal  0.000000e+00  0.000000e+00  1.000000e+00
+   outer loop
+     vertex  5.000000e-04 -5.000000e-04  6.000000e-03
+     vertex -5.000000e-04 -5.000000e-04  6.000000e-03
+     vertex -5.000000e-04 -7.500000e-04  6.000000e-03
+   endloop
+ endfacet
+ facet normal  0.000000e+00  0.000000e+00  1.000000e+00
+   outer loop
+     vertex  5.000000e-04 -5.000000e-04  6.000000e-03
+     vertex -5.000000e-04 -7.500000e-04  6.000000e-03
+     vertex  5.000000e-04 -7.500000e-04  6.000000e-03
+   endloop
+ endfacet
+ facet normal  1.000000e+00 -0.000000e+00  0.000000e+00
+   outer loop
+     vertex  5.000000e-04 -7.500000e-04  6.000000e-03
+     vertex  5.000000e-04 -5.000000e-04  5.000000e-03
+     vertex  5.000000e-04 -5.000000e-04  6.000000e-03
+   endloop
+ endfacet
+ facet normal  1.000000e+00  0.000000e+00  0.000000e+00
+   outer loop
+     vertex  5.000000e-04 -7.500000e-04  6.000000e-03
+     vertex  5.000000e-04 -7.500000e-04  5.000000e-03
+     vertex  5.000000e-04 -5.000000e-04  5.000000e-03
+   endloop
+ endfacet
+endsolid metalToHeater
